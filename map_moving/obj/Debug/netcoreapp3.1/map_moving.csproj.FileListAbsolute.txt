@@ -1,0 +1,13 @@
+E:\Unity\NikoLua\Hello\map_moving\bin\Debug\netcoreapp3.1\map_moving.exe
+E:\Unity\NikoLua\Hello\map_moving\bin\Debug\netcoreapp3.1\map_moving.deps.json
+E:\Unity\NikoLua\Hello\map_moving\bin\Debug\netcoreapp3.1\map_moving.runtimeconfig.json
+E:\Unity\NikoLua\Hello\map_moving\bin\Debug\netcoreapp3.1\map_moving.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\map_moving\bin\Debug\netcoreapp3.1\map_moving.dll
+E:\Unity\NikoLua\Hello\map_moving\bin\Debug\netcoreapp3.1\map_moving.pdb
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.dll
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.pdb
+E:\Unity\NikoLua\Hello\map_moving\obj\Debug\netcoreapp3.1\map_moving.genruntimeconfig.cache
